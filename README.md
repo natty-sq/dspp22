@@ -8,6 +8,7 @@
 
 ## Projects
 
+
 <details>
   <summary>Open me</summary>
   Boo.
