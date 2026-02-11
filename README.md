@@ -8,5 +8,10 @@
 
 ## Projects
 
+<details>
+  <summary>Open me</summary>
+  Boo.
+</details>
+
 
 ### Experiance
