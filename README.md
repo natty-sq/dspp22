@@ -21,11 +21,7 @@ For EDA, a ydata-profiling report has been generated. However, before creating t
 
 # Data Profiling Report
 
-<iframe src="unfiltered_report.html](data_profile/unfiltered_report.html" width="100%" height="1200px"></iframe>
+[Open the profiling report](data_profile/profile_report.html)
 
-<div style="height:1200px">
-    <iframe src="unfiltered_report.html](docs/data_profile/unfiltered_report.html"
-            style="width:100%; height:100%; border:none;">
-    </iframe>
-</div>
+
 
