@@ -1,6 +1,9 @@
-title: DS portfolio
+title: Powerlifting - gender differences and relative strength.
 logo:
-description: A repo for DS portfolio project
+description: Data science portfolio project.
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+include:
+  - data_profile/profile_report.html
