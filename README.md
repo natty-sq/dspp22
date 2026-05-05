@@ -85,11 +85,10 @@ A recommendation for further exploration into the topic could focus on looking h
 
 ### References 
 
-- OpenPowerlifting (2024) OpenPowerlifting Dataset. Available at: https://www.openpowerlifting.org
+- OpenPowerlifting (n.d.) OpenPowerlifting Dataset. Available at: https://www.openpowerlifting.org
 - McKinney, W. (2018) Python for Data Analysis. 2nd edn. Sebastopol: O’Reilly Media.
 - docs.profiling.ydata.ai. (n.d.). Welcome - YData Profiling. [online] Available at: https://docs.profiling.ydata.ai/latest/.
 - Aggarwal, C.C. (2017) Outlier Analysis. 2nd edn. Cham: Springer.
 - Helms, E.R., Storey, A.G., Cross, M.R. et al. (2018) ‘RPE and velocity relationships for the back squat, bench press, and deadlift in powerlifters’, Journal of Strength and Conditioning Research, 32(2), pp. 292–297.
-- Fair, R.C. (2021) ‘Trends in women’s participation in strength sports’, Journal of Sports Economics, 22(5), pp. 567–582.
 - International Powerlifting Federation (IPF) (2023) IPF Technical Rules Book. Available at: https://www.powerlifting.sport.
 - Machine Learning Plus. (2023). How to detect outliers using IQR and Boxplots? [online] Available at: https://machinelearningplus.com/machine-learning/how-to-detect-outliers-using-iqr-and-boxplots/.
